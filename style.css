@@ -640,3 +640,7 @@ audio {
 .socialmediaicons a:has(.fa-instagram) {
   background: #c13584;
 }
+
+title h1.h1{
+    font-size: 50px;
+}
