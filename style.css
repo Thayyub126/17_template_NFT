@@ -642,6 +642,16 @@ audio {
   background: #c13584;
 }
 
-.title h1.h1{
-    font-size: 40px !important;
+.title-big h1.h1{
+  font-size: 60px !important;
+  font-weight: 600;
+  max-width: 900px;
+  margin: 0 auto !important;
 }
+.title-small h2.h2, .title-small h3.h3, .title-small h4.h4, .title-small h5.h5, .title-small h6.h6 {
+    font-size: 18px !important;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+
